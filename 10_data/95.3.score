@@ -1,0 +1,2 @@
+Namespace(ignore_case=False, order=4, ref='test.en', sacrebleu=False, sentence_bleu=False, sys='95.3.out.spacy')
+BLEU4 = 18.73, 48.2/23.3/13.4/8.2 (BP=1.000, ratio=1.092, syslen=30191, reflen=27636)
